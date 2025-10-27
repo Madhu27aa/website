@@ -24,7 +24,7 @@ function Home2() {
               <br />
                              I’m a software engineer and Machine Learning enthusiast, passionate about building intelligent, user-focused solutions.
 
-              Experienced in Java, Python and full-stack development, with projects spanning AI, data science, and backend engineering.
+              Experienced in Software Engineer, Android Developement, iOS Developement, Fullstack Developement, Cloud Development, Machine Learning Engineering / Applied AI Engineering, AI Research.
               <i>
                 <b className="purple">  </b>
               </i>
