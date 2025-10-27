@@ -11,7 +11,8 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Madhumitha Seshaiah </span>
             from <span className="purple"> Chicago, Illinois</span>
             <br />
-            I am currently a Master’s Student in UNIVERSITY OF ILLINOIS AT CHICAGO.
+            I am pursuing my Master’s in Computer Science at the UNIVERSITY OF ILLINOIS, CHICAGO, blending technical expertise with product-focused thinking.
+I’m a software engineer and Machine Learning enthusiast, passionate about building intelligent, user-focused solutions. Experienced in Software Engineer, Android Developement, iOS Developement, Fullstack Developement, Cloud Development, Machine Learning Engineering / Applied AI Engineering, AI Research.
             <br />
     
             <br />
@@ -20,7 +21,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Developing Web Applications
+              <ImPointRight /> Developing Software Applications
             </li>
             <li className="about-activity">
               <ImPointRight /> Writing Tech Blogs
